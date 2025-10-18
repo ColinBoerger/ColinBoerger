@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ColinBoerger
-- 👀 I’m interested in experimenting in computer science to make products that people will use.
-- 🌱 I’m currently learning how to make applications in the real world
+- 👀 I'm a casual programmer making silly projects to grow and foster different skills
 
 <!---
 ColinBoerger/ColinBoerger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

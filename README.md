@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ColinBoerger
+- 👋 Hi, I’m Colin Boerger
 - 👀 I'm a programmer making fun projects to grow and foster different skills
 
 <!---

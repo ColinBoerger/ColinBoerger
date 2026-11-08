@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ColinBoerger
-- 👀 I'm a hobby programmer making fun projects to grow and foster different skills
+- 👀 I'm a programmer making fun projects to grow and foster different skills
 
 <!---
 ColinBoerger/ColinBoerger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
